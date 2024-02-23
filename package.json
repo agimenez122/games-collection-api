@@ -1,0 +1,19 @@
+{
+  "name": "games-collection-api",
+  "version": "1.0.0",
+  "description": "Sencilla api para la gestión de dispositivos, básicamente es un CRUD completo con endpoints para addición, borrado, etc ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agimenez122/games-collection-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agimenez122/games-collection-api/issues"
+  },
+  "homepage": "https://github.com/agimenez122/games-collection-api#readme"
+}

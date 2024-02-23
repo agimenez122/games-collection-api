@@ -1,8 +1,9 @@
-## api-devices
-# Devices api in node express
+## games-collection-api
+# Video Games collection api in node express
 
-Sencilla api para la gestión de dispositivos, básicamente es un CRUD completo con endpoints para addición, borrado, etc ...
 
-Básicamente es una api sencilla para experimentar con node y con express.
+Simple API for managing a video game collection, it's essentially a complete CRUD with endpoints for adding, deleting, etc...
 
-El end-point vacio (/) devuelve un mesaje de "Server Up!" para corroborar que el api esta levantada.
+Basically, it's a simple API to experiment with Node and Express.
+
+The empty endpoint (/) returns a "Server Up!" message to confirm that the API is running.
